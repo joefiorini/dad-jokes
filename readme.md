@@ -54,6 +54,16 @@ fortnight
 
 ---
 
+**Q:** What did the functional programmer name their daughter?
+**A:**: MLey
+
+--
+
+**Q:** What is a functional programmer's favorite brand of cigarette?
+**A:** Caml
+
+--
+
 I’ve been hearing news about this big boolean.
 
 Huge if true.
